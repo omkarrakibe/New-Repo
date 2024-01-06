@@ -1,0 +1,17 @@
+class Launch 
+           {
+
+             void m1()
+                 { 
+
+                 }
+
+           }class Launch 
+           {
+
+             void m1()
+                 { 
+
+                 }
+
+           }
