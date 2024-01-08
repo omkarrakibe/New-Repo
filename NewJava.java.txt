@@ -6,12 +6,4 @@ class New
 }
 
 
-}class New
-{
-     void m1 
-{
-      "New code of java"
-}
-
-
 }
